@@ -222,9 +222,8 @@ flowchart TB
 
 👨‍💻 Author
 
-Jayant Yadav
-B.Tech 
-MLOps | Machine Learning | Cloud
+Tushar Singh
+
 
 <p > ⭐ If you like this project, consider giving it a star! </p> 
 
