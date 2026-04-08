@@ -211,7 +211,7 @@ flowchart TB
 
 🚀 Fully Automated Flow
 🎯 What This Project Demonstrates
-
+```
 ✔ End-to-End MLOps Pipeline
 ✔ CI/CD Automation
 ✔ Model Lifecycle Management
@@ -220,6 +220,7 @@ flowchart TB
 ✔ Experiment Tracking with MLflow
 ✔ Production-Grade Infrastructure
 
+```
 👨‍💻 Author
 
 Tushar Singh
